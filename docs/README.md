@@ -9,4 +9,8 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+<<<<<<< HEAD
 - Triangle: P = a + b + c
+=======
+
+>>>>>>> 438b89a (L-05: Add user agreement)
