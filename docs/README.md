@@ -9,14 +9,11 @@ Please check out License Agreement for personal usage terms and limitations
 - Circle: S = πR²
 - Rectangle: S = ab
 - Square: S = a²
-- Triangle: S = (a + b + c) / 2
 
 ## Perimeter
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
-<<<<<<< HEAD
-- Triangle: P = a + b + c
 =======
 
 >>>>>>> 438b89a (L-05: Add user agreement)
